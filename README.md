@@ -1,7 +1,7 @@
 # Final-Project-Big-Ideas
 Evaluation of which Pittsburgh Neighborhood is the best to raise a family
 
-# Team Family Friendly\
+# Team Family Friendly
 
 Canvas group 11
 
