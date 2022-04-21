@@ -17,7 +17,7 @@ Canvas group 11
   - mtb75_medDeaths.ipynb
   - https://data.wprdc.org/dataset/median-age-death
 
-* Austin Doc McGrew
+* Austin Doc McGrew - adm174@pitt.edu
   - Evaluating number of speed humps in different neighborhoods
   - ADM_Final.ipynb
   - https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps
